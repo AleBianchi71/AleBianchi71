@@ -1,5 +1,5 @@
-### Hola soy Ale Bianchi y te doy la bienvenida a mi GitGub, se bienvenido a pasar por los repositorios para ver lo que estuve haciendo 👋
-Hello, I'm Ale Bianchi and I welcome you to my GitGub, welcome to go through the repositories to see what I've been doing
+### Hola soy Ale Bianchi y te doy la bienvenida a mi GitHub, se bienvenido a pasar por los repositorios para ver lo que estuve haciendo 👋
+Hello, I'm Ale Bianchi and I welcome you to my GitHub, welcome to go through the repositories to see what I've been doing
 
 <!--
 **AleBianchi71/AleBianchi71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
